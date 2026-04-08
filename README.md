@@ -34,11 +34,11 @@ I like building things, writing code and exploring ideas.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanTsiak&layout=compact" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=IvanTsiak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanTsiak&show_icons=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanTsiak" />
 </p>
 
 ---
