@@ -37,10 +37,6 @@ I like building things, writing code and exploring ideas.
   <img src="https://streak-stats.demolab.com?user=IvanTsiak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanTsiak" />
-</p>
-
 ---
 
 <h3 align="center">☕ Support</h3>
