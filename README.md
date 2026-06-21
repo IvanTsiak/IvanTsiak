@@ -26,7 +26,6 @@ I like building things, writing code and exploring ideas.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40"/>
 </p>
 
 ---
